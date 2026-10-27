@@ -17,8 +17,3 @@ IMPORTANT:
 - Current app demo matra ho. Registration/profile/event data shared online hudaina; real payment processing chaina.
 - App source app/src/main/assets/www/index.html ma cha.
 - Package ID: com.dipeshe.esports
-
-
-LOGO UPDATE:
-Timile pathaeko DE purple logo Android app launcher icon ra web app icon ma rakheko chha.
-Yo ZIP source/build project ho, compiled APK hoina. APK nikalna GitHub Actions ma build run garnu parchha.
